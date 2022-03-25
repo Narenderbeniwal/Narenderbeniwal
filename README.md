@@ -42,4 +42,4 @@ Skills: Data Science/ Machine Learning/ NLP /Computer Vision/ Deep Learning  / M
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Narenderbeniwal)  
 
-![Profile views](https://gpvc.arturio.dev/Narenderbeniwal)  
+![Profile views](https://gpvc.arturio.dev/Narenderbeniwal) .
