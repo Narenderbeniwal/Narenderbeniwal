@@ -1,8 +1,8 @@
 #### Hi there 👋, my name is Narender Kumar
 ###  I am Data Scientist At Teleperformance 
-Data science having a good command on Python,Machine learning, Deep Learning, Data Science, Computer Vision, MySql & Artificial intelligence.
+Data Scientist having a good command on Python,Machine learning, Deep Learning, Data Science, Computer Vision, MySql & Artificial intelligence.
 
-Skills: Data Science/ Machine Learning/ NLP /Computer Vision/ Deep Learning  / MySql/ MongoDB/AmazoneAWS/ HTML / CSS / Java Script 
+Skills: Data Science/ Machine Learning/ NLP /Computer Vision/ Deep Learning  / MySql/ MongoDB/AmazoneAWS/ HTML / CSS / Java Script/ Azure/ AWS
 
 - 🔭 I’m currently working on Advance Machine Learning Projects 
 - 🌱 I’m currently learning Artificial intelligence 
