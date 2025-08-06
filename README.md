@@ -76,7 +76,7 @@
 
 <p align="center">
   <a href="https://github.com/Narenderbeniwal">
-    <img src="https://streak-stats.demolab.com?user=Narenderbeniwal&theme=default" alt="GitHub Streak"/>
+    <img src="https://streak-stats.demolab.com?user=Narenderbeniwal&theme=default&hide_border=false" alt="GitHub Streak" width="700"/>
   </a>
   <br/>
   <a href="https://github.com/Narenderbeniwal">
