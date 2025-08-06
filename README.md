@@ -75,11 +75,17 @@
 ## 🏆 GitHub Stats & Highlights
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com?user=Narenderbeniwal&theme=default&hide_border=false" alt="GitHub Streak"/>
+  <a href="https://github.com/Narenderbeniwal">
+    <img src="https://streak-stats.demolab.com?user=Narenderbeniwal&theme=default" alt="GitHub Streak"/>
+  </a>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Narenderbeniwal&show_icons=true&theme=default" alt="GitHub Stats"/>
+  <a href="https://github.com/Narenderbeniwal">
+    <img src="https://github-readme-stats.vercel.app/api?username=Narenderbeniwal&show_icons=true&theme=default" alt="GitHub Stats"/>
+  </a>
   <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=Narenderbeniwal&theme=flat&no-frame=true&title=Stars,Commits,Followers,Repositories" alt="GitHub Trophies"/>
+  <a href="https://github.com/Narenderbeniwal">
+    <img src="https://github-profile-trophy.vercel.app/?username=Narenderbeniwal&theme=flat&no-frame=true&title=Stars,Commits,Followers,Repositories" alt="GitHub Trophies"/>
+  </a>
 </p>
 
 ---
