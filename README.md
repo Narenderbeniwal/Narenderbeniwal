@@ -94,7 +94,8 @@
 
 - 🎯 Enterprise GenAI & Agentic AI platforms  
 - ☁️ Azure-based MLOps & scalable deployments  
-- 📊 Data strategy & end-to-end ML implementation  
+- 📊 Data strategy & end-to-end ML implementation 
+- AWS 
 
 ---
 
